@@ -1,9 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: asdf
 permalink: index
 
 ---
@@ -12,19 +9,17 @@ permalink: index
 
 Ph.D. student at: Institute of Science and Technology Austria (ISTA)
 
-Supervisor: Vladimir Kolmogorov
+* Supervisor: Vladimir Kolmogorov
 
-Advisor: Jasmin Blanchette
+* Advisor: Jasmin Blanchette
 
 ## Research
 
 ### Main areas of interest
 
-Type theory
-
-Complexity theory
-
-Games
+* Type theory
+* Complexity theory
+* Games
 
 ### Publications
 
