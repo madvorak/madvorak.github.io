@@ -8,4 +8,4 @@ permalink: index
 
 ---
 
-content
+content updated
