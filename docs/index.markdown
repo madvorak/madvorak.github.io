@@ -9,9 +9,9 @@ permalink: index
 
 Ph.D. student at: Institute of Science and Technology Austria (ISTA)
 
-* Supervisor: Vladimir Kolmogorov
+* Supervisor: [Vladimir Kolmogorov](https://pub.ist.ac.at/~vnk/)
 
-* Advisor: Jasmin Blanchette
+* Advisor: [Jasmin Blanchette](https://www.cs.vu.nl/~jbe248/)
 
 ## Research
 

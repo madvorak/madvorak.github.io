@@ -22,8 +22,8 @@ title: Martin Dvorak
 email: martin.dvorak@ista.ac.at
 description:
   Ph.D. student at Institute of Science and Technology Austria (ISTA)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github:
+  is_project_page: false
 github_username:  madvorak
 
 # Build settings
