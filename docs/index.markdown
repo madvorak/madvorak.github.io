@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title:   
+title: ISTA
 
 ---
 
@@ -12,6 +12,8 @@ title:
 * Supervisor: [Vladimir Kolmogorov](https://pub.ist.ac.at/~vnk/)
 
 * Advisor: [Jasmin Blanchette](https://www.cs.vu.nl/~jbe248/)
+
+E-mail: martin.dvorak@ista.ac.at
 
 ## Research
 
