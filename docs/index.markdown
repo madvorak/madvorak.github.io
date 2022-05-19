@@ -4,6 +4,8 @@
 
 layout: home
 title: asdf
+permalink: index
+
 ---
 
 content
