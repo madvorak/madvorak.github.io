@@ -5,6 +5,8 @@ title: ISTA
 
 ---
 
+E-mail: martin.dvorak@ista.ac.at
+
 ## Affiliation
 
 [Institute of Science and Technology Austria](https://ista.ac.at/en/home/) (ISTA)
@@ -12,8 +14,6 @@ title: ISTA
 * Supervisor: [Vladimir Kolmogorov](https://pub.ist.ac.at/~vnk/)
 
 * Advisor: [Jasmin Blanchette](https://www.cs.vu.nl/~jbe248/)
-
-E-mail: martin.dvorak@ista.ac.at
 
 ## Research
 
@@ -34,8 +34,15 @@ Martin Dvorak and Sara Nicholson (2021). [Massively Winning Configurations in th
 Martin Dvorak and Vladimir Kolmogorov (2021). [Generalized Minimum 0-Extension Problem and Discrete Convexity](https://arxiv.org/abs/2109.10203)   
 (technical report)
 
-
 ### Current project
 
 [Formalization of formal grammars in Lean](https://github.com/madvorak/grammars)   
 (GitHub repository)
+
+## Science outreach
+
+[Korespondenční seminář M&M](https://mam.mff.cuni.cz/) (organizing since 2016)
+
+Dvorak, Martin; Havelka, Jonáš. Nekonečna. (Czech). Rozhledy matematicko-fyzikální. Praha, 2021(4), pp. 12–17
+
+Doležal, Jiří X.; Dvorak, Martin. Elementární automat Rule 30, homolice vznešená a meze poznání. (Czech). Veronica: časopis ochránců přírody. Brno, 2022(1), pp. 20–22
