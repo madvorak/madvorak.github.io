@@ -13,17 +13,9 @@ E-mail: martin.dvorak@ista.ac.at
 
 * Supervisor: [Vladimir Kolmogorov](https://pub.ist.ac.at/~vnk/)
 
-* Advisor: [Jasmin Blanchette](https://www.cs.vu.nl/~jbe248/)
+* Advisor: [Jasmin Blanchette](https://www.tcs.ifi.lmu.de/mitarbeiter/jasmin-blanchette_de.html)
 
 ## Research
-
-### Main areas of interest
-
-* Type theory
-* Complexity theory
-* Games
-
-### Publications
 
 Martin Dvorak (2021). [Minimum 0-Extensions of Graph Metrics](Martin-Dvorak_master-thesis.pdf)   
 (updated version of my master thesis)
@@ -34,10 +26,8 @@ Martin Dvorak and Sara Nicholson (2021). [Massively Winning Configurations in th
 Martin Dvorak and Vladimir Kolmogorov (2021). [Generalized Minimum 0-Extension Problem and Discrete Convexity](https://arxiv.org/abs/2109.10203)   
 (technical report)
 
-### Current project
-
-[Formalization of formal grammars in Lean](https://github.com/madvorak/grammars)   
-(GitHub repository)
+Martin Dvorak and Jasmin Blanchette (2023). [Closure Properties of General Grammars — Formally Verified](https://arxiv.org/abs/2302.06420)   
+(paper was accepted for publication at ITP 2023)
 
 ## Science outreach
 
