@@ -4,6 +4,7 @@ description: Ph.D. student at Institute of Science and Technology Austria (ISTA)
 github_username: madvorak
 
 # Build settings
-theme: jekyll-theme-time-machine
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
+- jekyll-feed
