@@ -21,9 +21,9 @@ Martin Dvorak (2021). [Minimum 0-Extensions of Graph Metrics](Martin-Dvorak_mast
 
 Martin Dvorak and Sara Nicholson (2021). [Massively Winning Configurations in the Convex Grabbing Game on the Plane](https://arxiv.org/abs/2106.11247) (paper in CCCG 2021 — the 33rd Canadian Conference on Computational Geometry)
 
-Martin Dvorak and Vladimir Kolmogorov (2021). [Generalized Minimum 0-Extension Problem and Discrete Convexity](https://arxiv.org/abs/2109.10203) (technical report)
-
 Martin Dvorak and Jasmin Blanchette (2023). [Closure Properties of General Grammars — Formally Verified](https://arxiv.org/abs/2302.06420) (paper in ITP 2023 — the 14th International Conference on Interactive Theorem Proving)
+
+Martin Dvorak and Vladimir Kolmogorov (2024). [Generalized Minimum 0-Extension Problem and Discrete Convexity](https://arxiv.org/abs/2109.10203) (paper in Mathematical Programming — A Publication of the Mathematical Optimization Society)
 
 ## Science outreach
 
