@@ -25,6 +25,8 @@ Martin Dvorak and Jasmin Blanchette (2023). [Closure Properties of General Gramm
 
 Martin Dvorak and Vladimir Kolmogorov (2024). [Generalized Minimum 0-Extension Problem and Discrete Convexity](https://arxiv.org/abs/2109.10203) (paper in Mathematical Programming — A Publication of the Mathematical Optimization Society)
 
+Martin Dvorak and Vladimir Kolmogorov (2024). [Duality theory in linear optimization and its extensions — Formally Verified](https://arxiv.org/abs/2409.08119) (technical report)
+
 ## Science outreach
 
 [Korespondenční seminář M&M](https://mam.mff.cuni.cz/) (organizing since 2016)
