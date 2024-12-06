@@ -34,3 +34,14 @@ Martin Dvorak and Vladimir Kolmogorov (2024). [Duality theory in linear optimiza
 Dvorak, Martin; Havelka, Jonáš. Nekonečna. (Czech). Rozhledy matematicko-fyzikální. Praha, 2021(4), pp. 12–17
 
 Doležal, Jiří X.; Dvorak, Martin. Elementární automat Rule 30, homolice vznešená a meze poznání. (Czech). Veronica: časopis ochránců přírody. Brno, 2022(1), pp. 20–22
+
+## Community service
+
+I maintain resources about Lean 4:
+* [How to read math written in Lean](https://github.com/madvorak/read-lean)
+* [Overview of tactics for beginners](https://github.com/madvorak/lean4-tactics) and a reduced [version for print](https://github.com/madvorak/lean4-cheatsheet)
+* [Lean 3 to Lean 4 dictionary of tactics](https://github.com/madvorak/lean3-tactic-lean4)
+
+I regularly contribute to [Mathlib](https://github.com/leanprover-community/mathlib4) (the main mathematical library in Lean 4).
+
+I administer Discord server [Lean 4 anarchy](https://discord.gg/WZ9bs9UCvx) which I created in 2023 and already has over 500 members.
