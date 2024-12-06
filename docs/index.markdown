@@ -12,7 +12,6 @@ E-mail: martin.dvorak@ista.ac.at
 [Institute of Science and Technology Austria](https://ista.ac.at/en/home/) (ISTA)
 
 * Supervisor: [Vladimir Kolmogorov](https://pub.ist.ac.at/~vnk/)
-
 * Advisor: [Jasmin Blanchette](https://www.tcs.ifi.lmu.de/mitarbeiter/jasmin-blanchette_de.html)
 
 ## Research
@@ -38,10 +37,12 @@ Doležal, Jiří X.; Dvorak, Martin. Elementární automat Rule 30, homolice vzn
 ## Community service
 
 I maintain resources about Lean 4:
-* [How to read math written in Lean](https://github.com/madvorak/read-lean)
-* [Overview of tactics for beginners](https://github.com/madvorak/lean4-tactics) and a reduced [version for print](https://github.com/madvorak/lean4-cheatsheet)
+* [How to read math written in Lean 4](https://github.com/madvorak/read-lean)
+* [Overview of tactics in Lean 4 for beginners](https://github.com/madvorak/lean4-tactics) and a reduced [version for print](https://github.com/madvorak/lean4-cheatsheet)
 * [Lean 3 to Lean 4 dictionary of tactics](https://github.com/madvorak/lean3-tactic-lean4)
 
-I regularly contribute to [Mathlib](https://github.com/leanprover-community/mathlib4) (the main mathematical library in Lean 4).
+I regularly contribute to [Mathlib](https://github.com/leanprover-community/mathlib4) (the main Lean 4 mathematical library).
 
 I administer Discord server [Lean 4 anarchy](https://discord.gg/WZ9bs9UCvx) which I created in 2023 and already has over 500 members.
+
+I helped organize [Lean 4 tutorial](https://www.dmg.tuwien.ac.at/lean2024/) in 2024, Wien.
