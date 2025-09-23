@@ -24,7 +24,7 @@ Martin Dvorak and Jasmin Blanchette (2023). [Closure Properties of General Gramm
 
 Martin Dvorak and Vladimir Kolmogorov (2024). [Generalized Minimum 0-Extension Problem and Discrete Convexity](https://arxiv.org/abs/2109.10203) (paper in Mathematical Programming — A Publication of the Mathematical Optimization Society)
 
-Martin Dvorak and Vladimir Kolmogorov (2024). [Duality theory in linear optimization and its extensions — Formally Verified](https://arxiv.org/abs/2409.08119) (in revision)
+Martin Dvorak and Vladimir Kolmogorov (2024). [Duality theory in linear optimization and its extensions — Formally Verified](https://arxiv.org/abs/2409.08119) (accepted for publication in AFM — acceptance obtained on 2025-09-23)
 
 Matthew Bolan, Joachim Breitner, Jose Brox, Mario Carneiro,
 Martin Dvorak, Andres Goens, Aaron Hill, Harald Husum, Zoltan Kocsis, Bruno Le Floch, Lorenzo Luccioli,
@@ -49,6 +49,6 @@ I maintain resources about Lean 4:
 
 I regularly contribute to [Mathlib](https://github.com/leanprover-community/mathlib4) (the main Lean 4 mathematical library).
 
-I administer Discord server [Lean 4 anarchy](https://discord.gg/WZ9bs9UCvx) which I created in 2023 and already has over 600 members.
+I administer Discord server [Lean 4 anarchy](https://discord.gg/WZ9bs9UCvx) which I created in 2023 and already has over 750 members.
 
 I helped organize [Lean 4 tutorial](https://www.dmg.tuwien.ac.at/lean2024/) in 2024, Wien.
