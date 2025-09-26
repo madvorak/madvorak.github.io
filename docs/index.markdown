@@ -24,7 +24,12 @@ Martin Dvorak and Jasmin Blanchette (2023). [Closure Properties of General Gramm
 
 Martin Dvorak and Vladimir Kolmogorov (2024). [Generalized Minimum 0-Extension Problem and Discrete Convexity](https://arxiv.org/abs/2109.10203) (paper in Mathematical Programming — A Publication of the Mathematical Optimization Society)
 
-Martin Dvorak and Vladimir Kolmogorov (2024). [Duality theory in linear optimization and its extensions — Formally Verified](https://arxiv.org/abs/2409.08119) (accepted for publication in AFM — acceptance obtained on 2025-09-23)
+Martin Dvorak and Vladimir Kolmogorov (2024). [Duality Theory in Linear Optimization and its Extensions — Formally Verified](https://arxiv.org/abs/2409.08119) (will be published in AFM — acceptance obtained on 2025-09-23)
+
+Martin Dvorak, Tristan Figueroa-Reid, Rida Hamadani, Byung-Hak Hwang,
+Evgenia Karunus, Vladimir Kolmogorov, Alexander Meiburg, Alexander Nelson,
+Peter Nelson, Mark Sandey, Ivan Sergeev (2025).
+[Composition Direction of Seymour's Theorem for Regular Matroids — Formally Verified](https://arxiv.org/abs/2509.20539) (technical report)
 
 Matthew Bolan, Joachim Breitner, Jose Brox, Mario Carneiro,
 Martin Dvorak, Andres Goens, Aaron Hill, Harald Husum, Zoltan Kocsis, Bruno Le Floch, Lorenzo Luccioli,
