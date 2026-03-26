@@ -18,13 +18,13 @@ E-mail: martin.dvorak@ista.ac.at
 
 Martin Dvorak (2021). [Minimum 0-Extensions of Graph Metrics](Martin-Dvorak_master-thesis.pdf) (updated version of my master thesis)
 
-Martin Dvorak and Sara Nicholson (2021). [Massively Winning Configurations in the Convex Grabbing Game on the Plane](https://arxiv.org/abs/2106.11247) (paper in CCCG 2021 — the 33rd Canadian Conference on Computational Geometry)
+Martin Dvorak and Sara Nicholson (2021). [Massively Winning Configurations in the Convex Grabbing Game on the Plane](https://arxiv.org/abs/2106.11247) (a paper in CCCG 2021 — the 33rd Canadian Conference on Computational Geometry)
 
-Martin Dvorak and Jasmin Blanchette (2023). [Closure Properties of General Grammars — Formally Verified](https://arxiv.org/abs/2302.06420) (paper in ITP 2023 — the 14th International Conference on Interactive Theorem Proving)
+Martin Dvorak and Jasmin Blanchette (2023). [Closure Properties of General Grammars — Formally Verified](https://arxiv.org/abs/2302.06420) (a paper in ITP 2023 — the 14th International Conference on Interactive Theorem Proving)
 
-Martin Dvorak and Vladimir Kolmogorov (2024). [Generalized Minimum 0-Extension Problem and Discrete Convexity](https://arxiv.org/abs/2109.10203) (paper in Mathematical Programming — A Publication of the Mathematical Optimization Society)
+Martin Dvorak and Vladimir Kolmogorov (2024). [Generalized Minimum 0-Extension Problem and Discrete Convexity](https://arxiv.org/abs/2109.10203) (a paper in Mathematical Programming)
 
-Martin Dvorak and Vladimir Kolmogorov (2024). [Duality Theory in Linear Optimization and its Extensions — Formally Verified](https://arxiv.org/abs/2409.08119) (will be published in AFM — acceptance obtained on 2025-09-23)
+Martin Dvorak and Vladimir Kolmogorov (2024). [Duality Theory in Linear Optimization and its Extensions — Formally Verified](https://arxiv.org/abs/2409.08119) (a paper in Annals of Formalized Mathematics)
 
 Martin Dvorak, Tristan Figueroa-Reid, Rida Hamadani, Byung-Hak Hwang,
 Evgenia Karunus, Vladimir Kolmogorov, Alexander Meiburg, Alexander Nelson,
@@ -35,7 +35,9 @@ Matthew Bolan, Joachim Breitner, Jose Brox, Mario Carneiro,
 Martin Dvorak, Andres Goens, Aaron Hill, Harald Husum, Zoltan Kocsis, Bruno Le Floch, Lorenzo Luccioli,
 Alex Meiburg, Pietro Monticone, Giovanni Paolini, Marco Petracci, Bernhard Reinke, David Renshaw, Marcus Rossel, Cody Roux,
 Jeremy Scanvic, Shreyas Srinivas, Anand Rao Tadipatri, Terence Tao, Vlad Tsyrklevich, Daniel Weber, Fan Zheng (2025).
-[The Equational Theories Project: Advancing Collaborative Mathematical Research at Scale](https://teorth.github.io/equational_theories/) (technical report)
+[The Equational Theories Project: Advancing Collaborative Mathematical Research at Scale](https://arxiv.org/abs/2512.07087) (technical report)
+
+Martin Dvorak (2026). [Pursuit of Truth and Beauty in Lean 4](2026_Dvorak_Martin_Thesis_improved.pdf) (updated version of my Ph.D. thesis)
 
 ## Science outreach
 
