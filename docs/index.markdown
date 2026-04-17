@@ -5,8 +5,6 @@ title: Martin Dvorak
 
 ---
 
-Postdoc at the University of West Bohemia in Plzeň
-
 E-mail: martin.dvorak@matfyz.cz
 
 ## Research
