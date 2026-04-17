@@ -5,14 +5,9 @@ title: Martin Dvorak
 
 ---
 
-E-mail: martin.dvorak@ista.ac.at
+Postdoc at the University of West Bohemia in Plzeň
 
-## Affiliation
-
-[Institute of Science and Technology Austria](https://ista.ac.at/en/home/) (ISTA)
-
-* Supervisor: [Vladimir Kolmogorov](https://pub.ist.ac.at/~vnk/)
-* Advisor: [Jasmin Blanchette](https://www.tcs.ifi.lmu.de/mitarbeiter/jasmin-blanchette_de.html)
+E-mail: martin.dvorak@matfyz.cz
 
 ## Research
 
