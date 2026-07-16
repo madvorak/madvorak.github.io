@@ -44,11 +44,12 @@ Doležal, Jiří X.; Dvorak, Martin. Elementární automat Rule 30, homolice vzn
 
 I maintain resources about Lean 4:
 * [How to read math written in Lean 4](https://github.com/madvorak/read-lean)
+* [Overview of Lean 4 versions with known soundness bugs](https://github.com/madvorak/lean4-soundness)
 * [Overview of tactics in Lean 4 for beginners](https://github.com/madvorak/lean4-tactics) and a reduced [version for print](https://github.com/madvorak/lean4-cheatsheet)
 * [Lean 3 to Lean 4 dictionary of tactics](https://github.com/madvorak/lean3-tactic-lean4)
 
 I regularly contribute to [Mathlib](https://github.com/leanprover-community/mathlib4) (the main Lean 4 mathematical library).
 
-I administer Discord server [Lean 4 anarchy](https://discord.gg/WZ9bs9UCvx) which I created in 2023 and already has over 750 members.
+I administer Discord server [Lean 4 anarchy](https://discord.gg/WZ9bs9UCvx) which I created in 2023 and already has 1000 members.
 
 I helped organize [Lean 4 tutorial](https://www.dmg.tuwien.ac.at/lean2024/) in 2024, Wien.
